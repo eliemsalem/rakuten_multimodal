@@ -81,6 +81,8 @@ images. Les fichiers `*.1%` sont des copies interrompues.
       imageid (`stack_ids.py`, LightGBM). ⚠ À sélectionner (« Selected ») sur la plateforme.
       Vrai modèle texte + image, sans identifiants : 0,9260 (meilleur réutilisable).
       Prêt, non soumis : `stack5_ids` (+ XLM-R, CV 0,9501). Notebook Mistral : `colab/rakuten_mistral_lora.ipynb`.
+- [x] **2026-10-26 : publié sur GitHub (public)** : https://github.com/eliemsalem/rakuten_multimodal
+      (code, README anglais, notebooks Colab, `docs/` ; aucune donnée du challenge).
 - Format des prédictions : `oof/<nom>_oof.npy` (84 916 × 27) et `oof/<nom>_test.npy` (13 812 × 27).
 
 ## Pistes
