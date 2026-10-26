@@ -1,0 +1,20 @@
+# données du challenge (non redistribuables), soumissions, modèles
+data/
+submissions/
+models/
+*.bin
+*.ftz
+__pycache__/
+*.pyc
+images/
+*.h5
+*.npy
+oof/
+feats/
+logs/
+runs/
+*.npz
+*.safetensors
+*.pt
+*.ckpt
+.ipynb_checkpoints/
